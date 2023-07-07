@@ -2,7 +2,7 @@
 apiVersion: source.toolkit.fluxcd.io/v1beta2
 kind: GitRepository
 metadata:
-  name: hello-world-flask
+  name: hello-world-flask1
 spec:
   interval: 5s
   ref:
